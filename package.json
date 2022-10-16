@@ -6,7 +6,7 @@
   {
   "scripts": {
     "docs:build": "vuepress build docs"
-  }
+  },
 }
   "repository": "https://github.com/AhmetKosgen/ahmetkosgen.github.io",
   "author": "AhmetKosgen ahmethksgn@gmail.com",
