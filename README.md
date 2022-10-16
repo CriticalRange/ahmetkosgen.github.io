@@ -1,3 +1,3 @@
 # ahmetkosgen.github.io
 hi guys it's my first repo 
-ahmetkosgen.github.io :()
+ahmetkosgen.github.io :(
