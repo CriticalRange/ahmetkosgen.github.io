@@ -1,13 +1,12 @@
- {
+{
   "name": "ahmetkosgen.github.io",
   "version": "1.0.0",
   "description": "Hello BOi ",
   "main": "index.js",
-  {
   "scripts": {
+    "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-}
   "repository": "https://github.com/AhmetKosgen/ahmetkosgen.github.io",
   "author": "AhmetKosgen ahmethksgn@gmail.com",
   "license": "MIT",
